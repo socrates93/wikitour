@@ -1,0 +1,7 @@
+{
+  "name": "wikitour",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

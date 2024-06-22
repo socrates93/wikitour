@@ -1,0 +1,15 @@
+.gitignore
+.eslintrc.cjs
+.prettierrc
+.env
+index.html
+postcss.config.js
+vite.config.ts
+tailwind.config.ts
+package-lock.json
+postcss.config.mjs
+tsconfig.json
+README.md
+android
+ios
+Dockerfile

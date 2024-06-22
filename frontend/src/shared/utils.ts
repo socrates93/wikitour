@@ -1,0 +1,20 @@
+export const READED_ARTICLES_KEY = 'readedArticles';
+export const AVAILABLE_LANGUAGES = [
+  { label: 'Bosnian', value: 'bs' },
+  { label: 'Danish', value: 'da' },
+  { label: 'German', value: 'de' },
+  { label: 'Greek', value: 'el' },
+  { label: 'English', value: 'en' },
+  { label: 'Spanish', value: 'es' },
+  { label: 'Finnish', value: 'fi' },
+  { label: 'French', value: 'fr' },
+  { label: 'Hebrew', value: 'he' },
+  { label: 'Korean', value: 'ko' },
+  { label: 'Norwegian', value: 'no' },
+  { label: 'Polish', value: 'pl' },
+  { label: 'Portuguese', value: 'pt' },
+  { label: 'Russian', value: 'ru' },
+  { label: 'Scots', value: 'sco' },
+  { label: 'Swedish', value: 'sv' },
+  { label: 'Vietnamese', value: 'vi' },
+];

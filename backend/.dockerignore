@@ -1,0 +1,12 @@
+.git
+.vscode
+.gitignore
+.env.template
+.dockerignore
+Dockerfile
+dist
+android
+ios
+node_modules
+prisma/migrations
+prisma/dev.db

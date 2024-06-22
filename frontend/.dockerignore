@@ -1,0 +1,10 @@
+.git
+.vscode
+.gitignore
+.env.template
+.dockerignore
+Dockerfile
+dist
+android
+ios
+node_modules
