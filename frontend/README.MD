@@ -12,8 +12,12 @@ And that's it! You can start using the frontend app by [clicking here](http://lo
 
 ## Run on mobile with Capacitor
 
-You can also run this project on Android/IOS devices. You can do this by running this command:
-`npm run open-android` or `npm run open-ios` respectively.
+You can also run this project on Android/IOS devices. You can do this by doing the following:
+
+- run `npm install -g @ionic/cli` to install ionic cli globally. Make sure that the cli works before continue.
+- run `npm run build`.
+- run `npm run capacitor:sync`.
+- run `npm run open-android` or `npm run open-ios`.
 
 After the native editor finish its building process, hit play, select your device and start using the app.
 

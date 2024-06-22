@@ -4,5 +4,12 @@
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "dist",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  },
   "cordova": {}
 }

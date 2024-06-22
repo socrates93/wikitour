@@ -10,6 +10,7 @@
     "preview": "vite preview",
     "open-android": "npx cap open android",
     "open-ios": "npx cap open ios",
+    "capacitor:sync": "npm run build && ionic cap sync --no-build",
     "format": "prettier --check .",
     "format:fix": "prettier --write ."
   },

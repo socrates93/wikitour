@@ -67,6 +67,7 @@ export const FilterBox = () => {
         <div>
           <button
             className='min-w-1/12 flex flex-1 flex-row items-center justify-center gap-2 self-end rounded-md border-2 p-2 text-white transition delay-75 duration-300 ease-in-out hover:bg-indigo-900 hover:text-white sm:flex-none md:flex-none lg:flex-none'
+            disabled={isLoading}
             onClick={() => {
               document.documentElement.scrollTo(0, 0);
 
