@@ -4,7 +4,7 @@
 
 ## Description
 
-This project aims to create a gallery of articles using the Wikipedia API. It allows users to filter articles by date and language. The frontend is built with React using ViteJS for project construction. The backend is developed with NestJS, and it integrates with LibreTranslate for translation services. All components are containerized and orchestrated using Docker and Docker Compose.
+This project aims to create a gallery of articles using the Wikipedia API. It allows users to filter articles by date and language. The frontend is built with React using ViteJS for project construction. The backend is developed with NestJS, and it integrates with LibreTranslate for translation services. It also has an SQLite Database to log all the requests to the backend service in case we want to analyze response times, etc. All components are containerized and orchestrated using Docker and Docker Compose.
 
 ## Dependencies
 
